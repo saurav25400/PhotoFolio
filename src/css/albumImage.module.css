@@ -1,0 +1,45 @@
+
+.container{
+    height: 20rem;
+    background:lightpink;
+    width: 23%;
+    border-radius: 4px;
+}
+.imageSection{
+    height:50%;
+    position: relative;
+}
+.img{
+    height: 14rem;
+    width: 100%;;
+}
+.heading{
+    margin-top: 4rem;
+    display: flex;
+
+}
+.heading1{
+    height: auto;
+    width: 45%;
+
+}
+.btn{
+    transform: scale(0.7);
+    background: deeppink;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.btn1{
+    transform: scale(0.7);
+    background: deeppink;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+
+
+.myButton{
+    
+}

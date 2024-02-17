@@ -1,0 +1,9 @@
+
+.container{
+    margin-top: 4rem;;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    width: 98%;
+    justify-content: center
+}

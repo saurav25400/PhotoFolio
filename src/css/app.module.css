@@ -1,0 +1,25 @@
+.album{
+    transform: scale(3);
+      border: 0px;
+      background: deeppink;
+      border-radius: 3px;
+      margin-top: 2rem;
+      position: absolute;
+      left: 79rem;
+      color: #ffff;
+  }
+  .removeBtn{
+    display: none;
+  }
+  .showBtn{
+  display: block;
+  transform: scale(3);
+      border: 0px;
+      background: red;
+      border-radius: 3px;
+      margin-top: 2rem;
+      position: absolute;
+      left: 79rem;
+      color: #ffff;
+  }
+  

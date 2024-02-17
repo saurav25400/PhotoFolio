@@ -1,0 +1,10 @@
+
+.parent{
+    display: flex;
+    flex-direction: row;
+    background: #a0a0f9;
+    height:5rem;
+}
+.buttons{
+    
+}

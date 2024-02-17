@@ -1,0 +1,42 @@
+
+.parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    
+}
+
+.input{
+    height: 3rem;
+    width: 30rem;
+    border-radius: 4px;
+
+}
+.button{
+    border-radius: 2px;
+    transform: scale(2.5);
+    margin-left: 3rem;
+    background-color: rgb(255, 19, 0);
+    border-width: 0px;
+    color: #ffff;
+}
+.buttons{
+    margin-left: 6rem;
+    border-radius: 2px;
+    transform: scale(2.5);
+    background-color: rgb(0, 119, 255);
+    border-width: 0px;
+    color: #ffff;
+}
+.container{
+    background: darksalmon;
+    height: 9rem;
+    width: 60rem;
+    margin: auto;
+    padding: 2rem;
+    margin-top: 1rem;
+    border-radius: 16px;;
+
+}
+    
+
